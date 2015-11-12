@@ -1,3 +1,3 @@
 # data-science
 
-Just a playground.
+Just a playground
