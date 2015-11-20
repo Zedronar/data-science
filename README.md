@@ -1,3 +1,8 @@
 # data-science
 
-Just a playground
+
+Load script to console:
+
+		source("mycode.R")
+
+		
